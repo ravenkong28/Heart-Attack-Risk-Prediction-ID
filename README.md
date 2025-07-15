@@ -134,5 +134,7 @@ This project is for academic and educational purposes only.
 
 # 🙋‍♂️ Author
 Raven Kongnando Lasher
-GitHub: ravenkong28
+
+GitHub: [ravenkong28](https://github.com/ravenkong28/)
+
 LinkedIn: [Raven Kongnando Lasher](https://www.linkedin.com/in/ravenkongl/)
