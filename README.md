@@ -121,7 +121,7 @@ sample = {
     'medication_usage': 1,
     'participated_in_free_screening': 0
 }
-
+```
 Predicted Risk → Heart Attack = Yes (high-risk individual)
 
 #📎 License
