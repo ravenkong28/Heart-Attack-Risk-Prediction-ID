@@ -122,10 +122,15 @@ sample = {
     'participated_in_free_screening': 0
 }
 ```
+
 Predicted Risk → Heart Attack = Yes (high-risk individual)
 
-#📎 License
+---
+
+# 📎 License
 This project is for academic and educational purposes only.
+
+---
 
 # 🙋‍♂️ Author
 Raven Kongnando Lasher
